@@ -27,9 +27,8 @@ This is an app created with React that works as a Calculator to do mathematical 
 
 ### Install
 
-- npm install
-
-"Not available"
+- npm install (for node_modules)
+- npm install big.js
 
 ### Usage
 

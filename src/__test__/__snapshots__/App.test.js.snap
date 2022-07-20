@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches DOM Snapshot 1`] = `
+Array [
+  <nav>
+    <div>
+      <a
+        aria-current="page"
+        className="logo active"
+        href="/"
+        onClick={[Function]}
+      >
+        Math Magicians
+      </a>
+    </div>
+    <ul>
+      <li>
+        <a
+          aria-current="page"
+          className="active"
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          className=""
+          href="/Calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li>
+        <a
+          className=""
+          href="/Quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+  </nav>,
+  <section
+    className="content"
+  >
+    <section
+      className="Home"
+    >
+      <h1>
+        Welcome to our Page!
+      </h1>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et est tortor. Pellentesque justo eros, fermentum tempus nisi sed, malesuada scelerisque ligula. Nulla et vulputate nulla. Integer viverra ligula sapien. Donec non eros at justo interdum tempus.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et est tortor. Pellentesque justo eros, fermentum tempus nisi sed, malesuada scelerisque ligula. Nulla et vulputate nulla. Integer viverra ligula sapien. Donec non eros at justo interdum tempus.
+      </p>
+    </section>
+  </section>,
+]
+`;

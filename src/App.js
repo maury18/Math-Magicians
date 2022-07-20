@@ -22,7 +22,7 @@ class App extends Component {
           <NavBar />
           <section className="content">
             <Routes>
-              <Route path="/math-magicians" element={<Home />} />
+              <Route path="/" element={<Home />} />
               <Route path="/Calculator" element={<Calculator className="Calculator" />} />
               <Route path="/Quote" element={<Quote />} />
             </Routes>

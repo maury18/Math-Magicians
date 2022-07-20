@@ -4,13 +4,13 @@ function NavBar() {
   return (
     <nav>
       <div>
-        <NavLink className="logo" to="/math-magicians">
+        <NavLink className="logo" to="/">
           Math Magicians
         </NavLink>
       </div>
       <ul>
         <li>
-          <NavLink className={({ isActive }) => (isActive ? 'active' : '')} to="/math-magicians">
+          <NavLink className={({ isActive }) => (isActive ? 'active' : '')} to="/">
             Home
           </NavLink>
         </li>

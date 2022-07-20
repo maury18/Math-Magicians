@@ -1,6 +1,6 @@
 # Math-Magicians
 
-This is an app created with React that works as a Calculator to do mathematical operations, the app is created with functional components and soon it will have the rest of the single app
+This is an app created with React that works as a Calculator to do mathematical operations, the app is created with functional components, this is a Single Page Application.
 
 
 ## Built With:

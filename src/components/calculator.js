@@ -16,6 +16,7 @@ const Calculator = () => {
   };
   return (
     <div className="App container">
+      <h2>Let´s do some math!</h2>
       <div className="app">
         <div className="calculator">
           <div className="display">

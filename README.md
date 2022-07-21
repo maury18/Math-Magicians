@@ -11,7 +11,9 @@ This is an app created with React that works as a Calculator to do mathematical 
 
 ## Live Demo (if available)
 
-"Not available"
+https://meek-buttercream-13d5d8.netlify.app/
+
+https://calculator-maury.herokuapp.com/
 
 ## Getting Started:
 - Clone the repository in your computer
